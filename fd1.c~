@@ -1,0 +1,15 @@
+//Area of circumference of a circle 
+#include<stdio.h>
+void circumference();
+void circumference()
+{
+float cm,r;
+       cm=2*3.14*r
+       printf("\n circumference of circle is",cm);
+}
+int main
+{ 
+printf("Enter redius of circle");
+       scanf("%f"&r);
+void circumference();
+}
